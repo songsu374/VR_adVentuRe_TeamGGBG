@@ -1,0 +1,11 @@
+This Lava River pack is a collection of assets to create a realistic lava river.
+
+Load the Lava_River.unity for an example scene, or drag your required river Prefab (Riverbed_Straight.prefab, Riverbed_Bend_A.prefab or Riverbed_Bend_B.prefab) from the Project window into the Hierarchy window. Note that these assets are tileable, so you can create a river to the shape and length that you require (hold down the "v" key when moving assets to snap them together).
+
+Additional assets are in the Prefab folder to dress your scene further such as trees and rocks.
+
+To add some dramatic uplighting from the river, don't forget to include the Lava_Uplights prefab in your scene (it can be placed anywhere in the environment).
+
+Have fun!
+
+If you have any questions then please get in touch at bendurrant@rivermillstudios.com
